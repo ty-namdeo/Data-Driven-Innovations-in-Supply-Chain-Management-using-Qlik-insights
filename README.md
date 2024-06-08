@@ -6,7 +6,7 @@
 #### 2.) Tokenized acces logs - https://drive.google.com/file/d/1DNl-FdfZjs3BRuaK-Q-vVC6lj6Tnhxye/view?usp=drive_link
 
 ### PRE-PROCESSED DATASET LINKS -
-#### 1. DataCo supply Chain Dataset - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data#:~:text=calendar_view_week-,DataCoSupplyChainDataset,-.csv
-#### 2. Tokenized acces logs - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data#:~:text=calendar_view_week-,tokenized_access_logs,-.csv
+#### 1. DataCo supply Chain Dataset - https://anek422cnludpg6.sg.qlikcloud.com/dataset/665dc47f3deecbe42fcba9f0
+#### 2. Tokenized acces logs - https://anek422cnludpg6.sg.qlikcloud.com/dataset/665de4e1d0bcc150ce7fa1e0
 
 ### VIDEO DEMONSTRATION LINK - https://drive.google.com/file/d/1rR4Kg19hnd15ciw15w9ce3w55s2cEqla/view?usp=sharing

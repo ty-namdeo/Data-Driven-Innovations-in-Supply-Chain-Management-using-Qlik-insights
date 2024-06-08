@@ -10,3 +10,5 @@
 #### 2. Tokenized acces logs - https://anek422cnludpg6.sg.qlikcloud.com/dataset/665de4e1d0bcc150ce7fa1e0
 
 ### VIDEO DEMONSTRATION LINK - https://drive.google.com/file/d/1rR4Kg19hnd15ciw15w9ce3w55s2cEqla/view?usp=sharing
+
+### PROJECT DOCUMENTATION - https://workdrive.zohoexternal.com/writer/open/6nunifde472756a724539b7f915dfb02e78c7?authId=%7B%22linkId%22%3A%225k2wApawB86-LYmlU%22%7D

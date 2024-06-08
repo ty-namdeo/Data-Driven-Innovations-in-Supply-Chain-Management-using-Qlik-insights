@@ -9,4 +9,4 @@
 #### 1. DataCo supply Chain Dataset - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data#:~:text=calendar_view_week-,DataCoSupplyChainDataset,-.csv
 #### 2. Tokenized acces logs - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data#:~:text=calendar_view_week-,tokenized_access_logs,-.csv
 
-### Project Demonstration Link - https://drive.google.com/file/d/1rR4Kg19hnd15ciw15w9ce3w55s2cEqla/view?usp=sharing
+### VIDEO DEMONSTRATION LINK - https://drive.google.com/file/d/1rR4Kg19hnd15ciw15w9ce3w55s2cEqla/view?usp=sharing
